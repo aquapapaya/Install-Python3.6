@@ -1,4 +1,4 @@
-# Install-Python3.6
+# Install-Python3.6 and pip3
 // using root to install python
 
 cd /usr/src
