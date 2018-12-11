@@ -11,7 +11,7 @@ cd Python-3.6.7
 
 ./configure --enable-optimizations
 
-make altinstall // avoid new version substitute old version
+make altinstall // avoid new version substituting old version
 
 cd /usr/bin 
 
