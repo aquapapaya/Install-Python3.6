@@ -1,5 +1,5 @@
 # Install Python3.6 and pip3
-// using root to install python
+* using root to install python
 
 cd /usr/src
 
@@ -20,7 +20,7 @@ ln -s /usr/src/Python-3.6.7/python python3
 python3 -v
 
 
-// using root to install pip3
+* using root to install pip3
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
