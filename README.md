@@ -19,6 +19,7 @@ ln -s /usr/src/Python-3.6.7/python python3
 
 python3 -v
 
+
 // using root to install pip3
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
